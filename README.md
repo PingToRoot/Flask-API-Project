@@ -1,4 +1,4 @@
-# Flask API Project
+# REST API Project
 
 A Flask application implementing JWT authentication and rate limiting, containerized with Docker for easy deployment in a Kubernetes environment. This project is designed to serve as a secure and scalable backend API.
 
